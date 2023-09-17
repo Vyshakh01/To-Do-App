@@ -28,5 +28,3 @@ Users can click on the "times" icon to remove a task from the list.
 The ToDo app dynamically renders tasks as the user adds them, updating the display in real-time.
 
 
-## Reference link:
-http://localhost:5173/
